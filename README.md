@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dpython%2Blogo&psig=AOvVaw0-7iLGRxtd0OIhSRkaDwa4&ust=1704442696756000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjGjYWmw4MDFQAAAAAdAAAAABAD" alt="Python" width="40" height="40"/>
+    <img src="https://w0.peakpx.com/wallpaper/658/609/HD-wallpaper-python-glitter-logo-programming-language-grid-metal-background-python-creative-programming-language-signs-python-logo-thumbnail.jpg" alt="Python" width="40" height="40"/>
     <img src="https://your-aws-gif-url.gif" alt="AWS" width="40" height="40"/>
     <img src="https://your-devops-gif-url.gif" alt="DevOps" width="40" height="40"/>
     <!-- Other icons for languages and tools -->
